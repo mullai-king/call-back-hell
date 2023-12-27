@@ -1,0 +1,13 @@
+body{
+  margin: 0px;
+  background:linear-gradient(45deg,#FFB534 ,#FBF6EE ,#65B741 )
+}
+
+#text-container{
+  font-size: 50px;
+  background:linear-gradient(45deg,#FFB534 ,#FBF6EE ,#65B741 );
+  font-weight: bold;
+  -webkit-background-clip: text;
+      color: blue;
+  
+}
