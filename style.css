@@ -8,6 +8,21 @@ body{
   background:linear-gradient(45deg,#FFB534 ,#FBF6EE ,#65B741 );
   font-weight: bold;
   -webkit-background-clip: text;
-      color: blue;
+   color: blue;
+  
+}
+
+@media screen and (max-width:480px) {
+  body{
+    padding:10px
+    background:linear-gradient(45deg,#FFB534 ,#FBF6EE ,#65B741 )
+  }
+  #text-container{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 500;
+    font-weight: bold;
+  }
+  
   
 }
